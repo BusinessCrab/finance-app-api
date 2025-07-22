@@ -9,7 +9,7 @@ This application allows users to:
 - Store passwords securely using BCrypt hashing
 - Work with PostgreSQL through Spring Data JPA
 
-- ## Tech Stack
+## Tech Stack
 
 - **Java 24**
 - **Spring Boot 3.5**
@@ -18,7 +18,7 @@ This application allows users to:
 - **PostgreSQL**
 - **Maven**
 
-- ## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 ```bash
